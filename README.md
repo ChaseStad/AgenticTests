@@ -1,3 +1,5 @@
+# This is the only handwritten line in this, I was just testing the chatgpt free agentic AI
+
 # React + Django Todo List
 
 This repo contains a Django REST API backend and a React frontend for a full to-do list experience.
